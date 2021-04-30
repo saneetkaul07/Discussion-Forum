@@ -1,3 +1,3 @@
 # Discussion-Forum
-Internet based student discussion forum static website with only front end work.
+Internet based student discussion forum using HTML CSS (Static website)
 
